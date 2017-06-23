@@ -1,0 +1,43 @@
+body {
+  overflow: scroll;
+}
+
+.titleArea {
+  text-align: center;
+  height: 50px;
+}
+.title {
+  margin: 0 8px;
+}
+
+.thumb {
+  margin: -10px 0;
+}
+
+.refresh {
+  vertical-align: middle;
+}
+
+.reddit {
+  font-weight: inherit;
+}
+
+.inlineSpinner {
+  display: inline-block;
+  margin: 0 6px;
+  vertical-align: middle;
+}
+
+.loadingSpinner {
+  margin: 20px 0;
+}
+
+.itemMetadata span {
+  display: inline-block;
+  padding-top: 5px;  
+  padding-right: 10px;
+}
+
+.itemMetadata i {
+  vertical-align: middle;
+}
